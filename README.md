@@ -86,11 +86,11 @@ VS Code
 
 ## 📫 Connect with Me
 
-LinkedIn *(Add your LinkedIn URL)*
+LinkedIn *(https://www.linkedin.com/in/chirla-naga-sangeetha/)*
 
 Portfolio *(Coming Soon)*
 
-Email *(Your Email)*
+Email *(chirlasangeetha9@gmail.com)*
 
 ---
 
