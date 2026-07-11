@@ -4,6 +4,20 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Flask+%7C+React+%7C+MySQL;Building+Real-World+Projects;Open+to+Software+Developer+Roles" />
 </p>
 
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chirla-naga-sangeetha/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:chirlasangeetha9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/sangeethareddy9">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
 ## 💻 Python Full Stack Developer
 
 🚀 Passionate about building scalable web applications using Python, Flask, React, and MySQL.
