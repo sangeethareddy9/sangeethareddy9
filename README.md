@@ -18,6 +18,14 @@
 </a>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sangeethareddy9&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sangeethareddy9&theme=algolia&no-frame=true&margin-w=10)
+
 ## 💻 Python Full Stack Developer
 
 🚀 Passionate about building scalable web applications using Python, Flask, React, and MySQL.
