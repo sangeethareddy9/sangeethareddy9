@@ -1,5 +1,9 @@
 # Hi 👋, I'm Sangeetha Chirla
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Flask+%7C+React+%7C+MySQL;Building+Real-World+Projects;Open+to+Software+Developer+Roles" />
+</p>
+
 ## 💻 Python Full Stack Developer
 
 🚀 Passionate about building scalable web applications using Python, Flask, React, and MySQL.
